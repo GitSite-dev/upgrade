@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://upgrade.gitsite.dev"><img src="https://gitsite.dev/images/gitsite.png" alt="Logo" width="25%" height="auto"></a>
 
-# Sous-domaine - GitSite - Upgrade
+  # Sous-domaine - GitSite - Upgrade
   [![Version](https://img.shields.io/badge/Version%20:-v1.0-6479ee?labelColor=23272A)](https://upgrade.gitsite.dev)
   [![GitHub](https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white)](https://github.com/20syldev)
   [![GitSite](https://img.shields.io/badge//gitsite-3857ab)](https://github.com/20syldev/gitsite)
